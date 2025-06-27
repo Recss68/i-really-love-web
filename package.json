@@ -1,0 +1,38 @@
+{
+  "name": "i-really-love-web",
+  "version": "1.0.0",
+  "description": "Ontwerp en maak een data driven online concept voor een opdrachtgever.",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdnd-task/proof-of-concept.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "ejs"
+  ],
+  "author": "J.P. Sturkenboom <j.p.sturkenboom@hva.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdnd-task/proof-of-concept/issues"
+  },
+  "homepage": "https://github.com/fdnd-task/proof-of-concept#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.0.1",
+    "liquidjs": "^10.21.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
+
