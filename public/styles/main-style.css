@@ -34,11 +34,15 @@ header {
     align-items: flex-end;
     padding: 1.5rem;
     z-index: 999;
+    border-bottom: 1px solid var(--card-color);
     h1 {
         position: fixed;
         top: 0;
         left: 0;
         padding: 1rem;
+        @media (min-width: 1340px) {
+            font-size: var(--size-xl);
+          }
     }
     .hamburger-menu {
       z-index: 999;
