@@ -6,7 +6,22 @@
     background-color: var(--text-color);
     margin-bottom: 6px;
     width: 40px;
+    transition: all 0.3s ease;
   }
+
+  .bar.active:nth-child(1) {
+    transform: translateY(12px) rotate(45deg);
+  }
+  
+  .bar.active:nth-child(2) {
+    opacity: 0;
+  }
+  
+  .bar.active:nth-child(3) {
+    transform: translateY(-12px) rotate(-45deg);
+  }
+
+  
 
 .inactive {
     display: none;
@@ -34,8 +49,7 @@ header {
       padding-top: 5px;
     }
     .menu-items {
-      background-color: var(--text-color);
-      color: var(--section-color);
+      background-color: var(--section-color);
       position: fixed;
       top: 0;
       right: -60vw;
@@ -44,8 +58,11 @@ header {
       width: 50vw;
       z-index: 998;
       transition: right 0.3s ease-in-out;
+      @media (min-width: 768px) {
+        width: 40vw;
+      }
       &.active {
-        right: -10vw;
+        right: 0;
       }
       .nav-item {
         position: relative;
@@ -60,8 +77,4 @@ header {
         font-size: var(--heading-6);
       }
     }
-  }
-  
-  .menuActive {
-    right: 0;
   }
