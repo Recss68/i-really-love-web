@@ -1,0 +1,58 @@
+/* Header Styling */
+
+.bar {
+    display: block;
+    height: 8px;
+    background-color: var(--text-color);
+    margin-bottom: 6px;
+    width: 60px;
+  }
+  
+header {
+    position: fixed;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding: 1.5rem;
+    z-index: 999;
+    .hamburger-menu {
+      z-index: 999;
+      background: none;
+      border: none;
+    }
+    .menu-items {
+      background-color: white;
+      position: fixed;
+      top: 0;
+      right: -60vw;
+      padding: 3rem;
+      height: 100vh;
+      width: 50vw;
+      z-index: 998;
+      transition: right 0.3s ease-in-out;
+      @media (min-width: 768px) {
+        width: 40vw;
+      }
+      &.active {
+        right: 0;
+      }
+      .nav-item {
+        position: relative;
+        top: 30vh;
+        margin-bottom: 2rem;
+        list-style: none;
+        &:hover {
+          text-decoration: underline;
+        }
+      }
+      a {
+        font-size: var(--heading-6);
+      }
+    }
+  }
+  
+  .menuActive {
+    right: 0;
+  }
