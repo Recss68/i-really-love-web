@@ -2,10 +2,10 @@
 
 .bar {
     display: block;
-    height: 8px;
+    height: 6px;
     background-color: var(--text-color);
     margin-bottom: 6px;
-    width: 60px;
+    width: 40px;
   }
 
 .inactive {
@@ -21,26 +21,31 @@ header {
     align-items: flex-end;
     padding: 1.5rem;
     z-index: 999;
+    h1 {
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 1rem;
+    }
     .hamburger-menu {
       z-index: 999;
       background: none;
       border: none;
+      padding-top: 5px;
     }
     .menu-items {
-      background-color: white;
+      background-color: var(--text-color);
+      color: var(--section-color);
       position: fixed;
       top: 0;
       right: -60vw;
-      padding: 3rem;
+      padding: 2rem;
       height: 100vh;
       width: 50vw;
       z-index: 998;
       transition: right 0.3s ease-in-out;
-      @media (min-width: 768px) {
-        width: 40vw;
-      }
       &.active {
-        right: 0;
+        right: -10vw;
       }
       .nav-item {
         position: relative;
@@ -48,7 +53,7 @@ header {
         margin-bottom: 2rem;
         list-style: none;
         &:hover {
-          text-decoration: underline;
+          color: var(--hover-color);
         }
       }
       a {
