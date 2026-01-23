@@ -1,22 +1,32 @@
-Ik weet hoe ik met GitHub iteratief kan werken, gebruik issues en sub-issues, en ik kan uitleggen wat een fork, clone, commit, push, pull, merge en conflict inhouden.
+Ik weet hoe ik met GitHub iteratief kan werken, gebruik issues en sub-issues, en ik kan uitleggen wat een fork, clone, commit, push, pull, merge en conflict inhouden. 
+- 3 pnt 
  
 Ik weet van HTML wat elementen, tags en attributen zijn, en hoe ik mijn HTML kan valideren, en van CSS wat selectors, properties, values, units en combinators zijn.
+- 1 pnt
  
 Ik weet hoe ik Figma kan gebruiken om te variëren, hoe ik interactieve prototypes kan maken, en ik kan inschatten op welk moment ik verder ga in code.
+- 2 pnt
  
 Ik weet alle Layout Modes in CSS en eigenschappen van elke te benoemen, kan van (onderdelen van) een ontwerp bepalen welke ik inzet, en ze toepassen en combineren.
+- 1 pnt
  
 Ik weet wat de WCAG richtlijnen zijn, hoe ik een WCAG audit met automatische en handmatige tests doe, en hoe ik testresultaten kan verwerken.
+- 1 pnt
  
 Ik weet hoe ik met alleen HTML een prototype van (een deel van) een ontwerp maak, en waarom een robuust fundament belangrijk is, voordat ik volgende lagen toevoeg.
+- 3 pnt
  
 Ik weet hoe ik Mobile First ontwerp en ontwikkel, hoe ik dat kan herkennen in mijn CSS, hoe CSS nesting hierbij kan helpen, en wat het voordeel is van deze manier.
+- 3 pnt 
  
 Ik weet verschillende regels voor leesbaarheid van tekst, hoe ik de typografie kan aanpassen met CSS, en welke properties en units ik wanneer in kan zetten.
+- 2 pnt
  
 Ik weet hoe kleurcontrast te maken heeft met visuele hiërarchie én met toegankelijkheid, en hoe ik dit kan testen en verbeteren.
+- 1 pnt
  
 Ik weet hoe ik een duidelijke Readme en Wiki kan opleveren, hoe ik Markdown hierin toe kan passen, hoe ik mijn werk aan een opdrachtgever presenteer tijdens een Sprint Review en hoe ik inhoudelijke feedback kan krijgen.
+- 3 pnt
  
 Ik weet wat in CSS specificity, cascade en inheritance betekenen, en kan deze onderwerpen via een schets uitleggen aan iemand anders.
  
