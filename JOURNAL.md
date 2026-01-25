@@ -29,21 +29,31 @@ Ik weet hoe ik een duidelijke Readme en Wiki kan opleveren, hoe ik Markdown hier
 - 3 pnt
  
 Ik weet wat in CSS specificity, cascade en inheritance betekenen, en kan deze onderwerpen via een schets uitleggen aan iemand anders.
+- 3 pnt
  
 Ik weet verschillende Gestalt wetten te benoemen en kan ze inzetten om ontwerpen beter (of slechter) te maken.
+- 1 pnt
  
 Ik weet hoe ik in HTML formulieren en formulierelementen maak, hoe ik validatieregels in HTML attributen meegeef, hoe ik verschillende states kan stylen met CSS en wat het verschil is tussen een placeholder en een label.
+- 3 pnt
  
 Ik weet wat Custom Properties in CSS zijn, waarom ze zo heten, hoe je ze gebruikt en dynamisch inzet, en hoe ze samenwerken met specificity, cascade en inheritance.
+- 3 pnt
  
 Ik weet de basis van programmeren, zoals variabelen, functies, loops en data types, en ik weet wat het verschil is tussen een imperatieve taal en een declaratieve taal.
+- 2 pnt
  
 Ik weet wat keyframe animaties in CSS zijn, hoe je ze kunt gebruiken, hoe ze verschillen van transitions, en wanneer je wat inzet.
+- 2 pnt
  
 Ik weet het verschil tussen feedback en feedforward in een User Interface, hoe die samenwerken, en hoe duidelijke labels de User Interface beter kunnen maken.
- 
+- 3 pnt
+
 Ik weet wat een gebruikerstest is, hoe je deze voorbereidt, en hoe je met een user story, testplan, scenario en observeren tot bruikbare testresultaten komt.
+- 3 pnt
  
 Ik weet hoe ik in JavaScript via het Document Object Model met querySelector, addEventListener en classList micro-interacties toe kan voegen aan mijn website.
+- 3 pnt
  
 Ik weet wat UI events en event properties zijn, hoe ik verschillende UI events in JavaScript kan gebruiken, en wat een callback functie is.
+- 2 pnt
